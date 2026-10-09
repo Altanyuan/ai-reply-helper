@@ -8,12 +8,12 @@
 
 ## 版本下载
 
-| 平台 | 仓库 | 说明 |
+| 版本 | 系统 | 下载 |
 |---|---|---|
-| Windows | [ai-reply-helper-win](https://github.com/Altanyuan/ai-reply-helper-win) | 微信 3.x / 4.x，热键 `Ctrl+Alt+P` |
-| macOS | [ai-reply-helper-mac](https://github.com/Altanyuan/ai-reply-helper-mac) | 微信 Mac 版，截图 + 系统 OCR 读上下文 |
+| v1.0.0 | Windows（安装版，89M） | [一键下载 SetupWechatAI.exe](https://github.com/Altanyuan/ai-reply-helper-win/releases/download/v1.0.0/SetupWechatAI.exe) |
+| v1.0.0 | macOS（31.9M） | [一键下载 WechatAI.dmg](https://github.com/Altanyuan/ai-reply-helper-mac/releases/download/v1.0.0/WechatAI.dmg) |
 
-两个版本互相独立，按你的电脑系统进对应仓库看使用说明。
+源码和使用说明进对应仓库看：[Windows 版](https://github.com/Altanyuan/ai-reply-helper-win) ｜ [macOS 版](https://github.com/Altanyuan/ai-reply-helper-mac)。
 
 ## 实际效果（三个真实场景）
 
