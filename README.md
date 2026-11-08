@@ -10,7 +10,7 @@
 
 | 版本 | 系统 | 下载 |
 |---|---|---|
-| v1.0.0 | Windows（绿色单文件版，167M） | [一键下载 HuiLiao_v1.0.0_win64.exe](https://github.com/Altanyuan/ai-reply-helper-win/releases/download/v1.0.0/HuiLiao_v1.0.0_win64.exe) |
+| v2.0.0 | Windows（绿色单文件版，167M） | [一键下载 HuiLiao_v1.0.0_win64.exe](https://github.com/Altanyuan/ai-reply-helper-win/releases/download/v1.0.0/HuiLiao_v1.0.0_win64.exe) |
 | v1.0.0 | macOS（31.9M） | [一键下载 WechatAI.dmg](https://github.com/Altanyuan/ai-reply-helper-mac/releases/download/v1.0.0/WechatAI.dmg) |
 
 源码和使用说明进对应仓库看：[Windows 版](https://github.com/Altanyuan/ai-reply-helper-win) ｜ [macOS 版](https://github.com/Altanyuan/ai-reply-helper-mac)。
